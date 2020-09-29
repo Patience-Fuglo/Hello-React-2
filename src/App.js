@@ -8,11 +8,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          My name is Patience Fuglo and I'm going to master React!
+           Practicing React
         </p>
         <a
           className="App-link"
-          href="https://github.com/Patience-Fuglo/Hello-React"
+          href="https://github.com/Patience-Fuglo/Hello-React-2"
           target="_blank"
           rel="noopener noreferrer"
         >
