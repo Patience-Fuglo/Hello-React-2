@@ -1,24 +1,41 @@
 import React from 'react';
-import logo from './pic2.jpg';
-import './App.css';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
 
+import './App.css';
+import Home from './Components/Home';
+import AboutMe from './Components/AboutMe';
+import Contact from './Components/Contact';
+import Projects from './Components/Projects';
+import Header from './Components/Header';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-           Practicing React
-        </p>
-        <a
-          className="App-link"
-          href="https://github.com/Patience-Fuglo/Hello-React-2"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Reacting to React!
-        </a>
-      </header>
+      <Router>
+        <div>
+          <Switch>
+            <Route path="/AboutMe">
+              <AboutMe />
+            </Route>
+            <Route path="/Contact">
+              <Contact />
+            </Route>
+            <Route path="/Projects">
+              <Projects />
+            </Route>
+            <Route path="/Header">
+              <Header />
+            </Route>
+            <Route path="/">
+              <Home />
+            </Route>
+          </Switch>
+        </div>
+      </Router>
     </div>
   );
 }
