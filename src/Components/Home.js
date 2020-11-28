@@ -1,13 +1,20 @@
 import React from 'react';
+import logo from '../pic2.jpg';
 
-
-
-function Home() {
+const Home = ()=>{
   return (
-    <div className="Home">
-      Home
+ <div>
+        <div className="home_container">
+           <h1 className="home_text">Welcome!</h1>
+           <h2>
+           <br/> I am Patience Fuglo
+           <br/>  And this is my online
+           <br/>  Portfolio
+           </h2>
+           <img src={logo} className="App-logo" alt="logo" />
+        </div>
     </div>
-  );
+    )
 }
 
 export default Home;
