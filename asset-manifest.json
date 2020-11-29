@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/%7BHello-React-2%7D/static/css/main.5f361e03.chunk.css",
-    "main.js": "/%7BHello-React-2%7D/static/js/main.179eeb0d.chunk.js",
-    "main.js.map": "/%7BHello-React-2%7D/static/js/main.179eeb0d.chunk.js.map",
-    "runtime-main.js": "/%7BHello-React-2%7D/static/js/runtime-main.0ed7d012.js",
-    "runtime-main.js.map": "/%7BHello-React-2%7D/static/js/runtime-main.0ed7d012.js.map",
-    "static/js/2.0f446c4c.chunk.js": "/%7BHello-React-2%7D/static/js/2.0f446c4c.chunk.js",
-    "static/js/2.0f446c4c.chunk.js.map": "/%7BHello-React-2%7D/static/js/2.0f446c4c.chunk.js.map",
-    "index.html": "/%7BHello-React-2%7D/index.html",
-    "precache-manifest.451704b2ce7e1f4dd7ffac8430718b87.js": "/%7BHello-React-2%7D/precache-manifest.451704b2ce7e1f4dd7ffac8430718b87.js",
-    "service-worker.js": "/%7BHello-React-2%7D/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/%7BHello-React-2%7D/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.0f446c4c.chunk.js.LICENSE.txt": "/%7BHello-React-2%7D/static/js/2.0f446c4c.chunk.js.LICENSE.txt",
-    "static/media/Pat-Resume.pdf": "/%7BHello-React-2%7D/static/media/Pat-Resume.640218a2.pdf",
-    "static/media/pic2.jpg": "/%7BHello-React-2%7D/static/media/pic2.44d3b3c8.jpg"
+    "main.css": "/Hello-React-2/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Hello-React-2/static/js/main.d9b1bf5c.chunk.js",
+    "main.js.map": "/Hello-React-2/static/js/main.d9b1bf5c.chunk.js.map",
+    "runtime-main.js": "/Hello-React-2/static/js/runtime-main.eea02ca9.js",
+    "runtime-main.js.map": "/Hello-React-2/static/js/runtime-main.eea02ca9.js.map",
+    "static/js/2.0f446c4c.chunk.js": "/Hello-React-2/static/js/2.0f446c4c.chunk.js",
+    "static/js/2.0f446c4c.chunk.js.map": "/Hello-React-2/static/js/2.0f446c4c.chunk.js.map",
+    "index.html": "/Hello-React-2/index.html",
+    "precache-manifest.48bf6bbd38b6bb076898489c4dbb029c.js": "/Hello-React-2/precache-manifest.48bf6bbd38b6bb076898489c4dbb029c.js",
+    "service-worker.js": "/Hello-React-2/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Hello-React-2/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0f446c4c.chunk.js.LICENSE.txt": "/Hello-React-2/static/js/2.0f446c4c.chunk.js.LICENSE.txt",
+    "static/media/Pat-Resume.pdf": "/Hello-React-2/static/media/Pat-Resume.640218a2.pdf",
+    "static/media/pic2.jpg": "/Hello-React-2/static/media/pic2.44d3b3c8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ed7d012.js",
+    "static/js/runtime-main.eea02ca9.js",
     "static/js/2.0f446c4c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.179eeb0d.chunk.js"
+    "static/js/main.d9b1bf5c.chunk.js"
   ]
 }
