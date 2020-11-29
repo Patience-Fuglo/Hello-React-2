@@ -6,11 +6,11 @@ const Home = ()=>{
  <div>
         <div className="home_container">
            <h1 className="home_text">Welcome!</h1>
-           <h2>
+           <h3>
            <br/> I am Patience Fuglo
            <br/>  And this is my online
            <br/>  Portfolio
-           </h2>
+           </h3>
            <img src={logo} className="App-logo" alt="logo" />
         </div>
     </div>
